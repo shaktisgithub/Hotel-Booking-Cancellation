@@ -54,8 +54,7 @@ This section explains any design patterns used in the project, including their p
 
 Below is a screenshot of the Excel dashboard:
 
-![Hotel Booking Cancellation Dashboard](![Screenshot 2024-07-05 231624](https://github.com/shaktisgithub/Hotel-Booking-Cancellation/assets/140899319/29035729-2da6-4cd4-9c2f-0f6c4e069253)
-)
+![Screenshot 2024-07-05 231624](https://github.com/shaktisgithub/Hotel-Booking-Cancellation/assets/140899319/a1d10e9e-b4fa-4485-8bed-d78e4a0dd551)
 
 ## Contact
 
